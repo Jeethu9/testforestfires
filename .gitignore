@@ -1,0 +1,19 @@
+# Python / Flask / ML
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*.log
+
+# Data / models
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.joblib
+*.h5
+data/
+
+# OS / Editor files
+.DS_Store
+.vscode/
